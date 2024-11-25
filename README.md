@@ -1,6 +1,6 @@
 <h1>Delphi HDD Keep Alive Agent</h1>
 
-<p>This Delphi VCL application allows you to keep selected hard drives (HDDs) active by writing a small <code>ping.txt</code> file to them periodically. The user can select the drives to monitor and configure the time interval for writing the file, preventing the drives from spinning down due to inactivity.</p>
+<p>This Delphi VCL application allows you to keep selected hard drives (HDDs) active by writing a small <code>ping.txt</code> file to them periodically. The user can select the drives to monitor and configure the time interval for writing the file, preventing the drives from spinning down due to inactivity. (And if your worried about clutter... WORRY NOT the software always cleans the text files from the drives as well so you have no leftover's to worry about.)</p>
 
 <!-- Replace 'Preview.gif' with the path to your actual image file -->
 <p align="center">
