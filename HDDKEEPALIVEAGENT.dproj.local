@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2024/11/15 20:38:04.000.133,=C:\Users\BitmasterXor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/11/15 20:41:39.000.746,C:\Users\BitmasterXor\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\BitmasterXor\Desktop\Hard Drive Keep Alive Agent\Unit1.dfm</Transaction>
-    <Transaction>2024/11/15 20:41:39.000.746,C:\Users\BitmasterXor\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\BitmasterXor\Desktop\Hard Drive Keep Alive Agent\Unit1.pas</Transaction>
-    <Transaction>2024/11/15 20:41:45.000.432,C:\Users\BitmasterXor\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\BitmasterXor\Desktop\Hard Drive Keep Alive Agent\HDDKEEPALIVEAGENT.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
